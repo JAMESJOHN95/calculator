@@ -1,0 +1,20 @@
+.first{
+    width: 73px;
+    height: 75px;
+    border-radius: 5px;
+    background-color: grey;
+    border: solid yellow;
+    color: yellow;
+    font-size: 30px;
+    
+}
+.Second{
+    border-radius: 5px;
+    width: 71px;
+    height: 75px;
+    background-color: grey;
+    border: solid yellow;
+    color: yellow;
+    font-size: 30px;
+
+}
