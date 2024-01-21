@@ -1,20 +1,48 @@
 .first{
     width: 73px;
     height: 75px;
-    border-radius: 5px;
+    border-radius: 25px;
     background-color: grey;
     border: solid yellow;
     color: yellow;
     font-size: 30px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     
 }
 .Second{
-    border-radius: 5px;
+    border-radius: 25px;
     width: 71px;
     height: 75px;
     background-color: grey;
     border: solid yellow;
     color: yellow;
     font-size: 30px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
+}
+input{
+    height: 70px;
+    border: solid yellow 3px;
+    background-color: #39434d;
+    margin-bottom: 5px;
+     width: 346px;
+     border-radius: 25px;
+     font-size: 40px;
+     padding-left: 10px;
+
+}
+
+.first:hover{
+    transform: scale(1.1);
+}
+.Second:hover{
+    transform: scale(1.1);
+}
+.first:hover{
+    border: solid 3px rgb(48, 225, 225);
+    color: rgb(48, 225, 225);
+}
+.Second:hover{
+    border: solid 3px rgb(48, 225, 225);
+    color: rgb(48, 225, 225);
 }
